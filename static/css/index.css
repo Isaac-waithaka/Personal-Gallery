@@ -1,9 +1,9 @@
 body{
-  background-color:#342D7E;
+  background-color:#d2ffb5;
 }
 
 #img {
-  border: 1px solid #ddd;
+  border: 1px solid rgb(15, 107, 15);
   border-radius: 4px;
   padding: 5px;
   width: 150px;
@@ -11,7 +11,7 @@ body{
 }
 
 #img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  box-shadow: 0 0 2px 1px rgba(115, 199, 76, 0.479);
 }
  body{
    margin-left: 50px;
