@@ -23,10 +23,6 @@ run the app using
 * $ python3.9 manage.py runserver
 
 
-**Running**
-
-visit the link ; https://gallary-ip.herokuapp.com/
-
 ## Technologies Used
 * python3.9 ; Django framework
 * PostgreSQL
